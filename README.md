@@ -1,1 +1,30 @@
-# htmlcode1
+<html>
+<head>
+	<title>TABLE</title>
+	<style>
+		table, th, td {
+			border:1px solid black;
+		}
+	</style>
+</head>
+<body>
+<h2>TABLE</h2>
+	<table style="width:100%">
+		<tr>
+			<th>Person 1</th>
+			<th>Person 2</th>
+			<th>Person 3</th>
+		</tr>
+		<tr>
+			<td>Emil</td>
+			<td>Tobias</td>
+			<td>Linus</td>
+		</tr>
+		<tr>
+			<td>16</td>
+			<td>14</td>
+			<td>10</td>
+		</tr>
+	</table>
+</body>
+</html>
